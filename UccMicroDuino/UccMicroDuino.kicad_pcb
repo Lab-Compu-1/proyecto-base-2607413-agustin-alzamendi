@@ -3437,11 +3437,21 @@
 		(uuid "3e0bd45c-d488-419e-9ca5-d02841d560c8")
 	)
 	(gr_line
+		(start 112.046738 91)
+		(end 121 91)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ce1fa1d5-ce5d-44bd-b162-7c6b654e93cf")
+	)
+	(gr_line
 		(start 121 58.778325)
 		(end 121 91)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "14fa7afb-5e89-4ce9-b70e-9c28ff346373")
